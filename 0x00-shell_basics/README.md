@@ -1,1 +1,1 @@
-script that prints the  path name of the current directory
+ 0. Where am I?
